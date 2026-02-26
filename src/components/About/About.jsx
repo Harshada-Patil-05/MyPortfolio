@@ -1,6 +1,6 @@
 import React from "react";
 import profileImage from "../../assets/Harshu.jpeg";
-import resume from "../../assets/Harshada_resume.pdf";
+import resume from "../../assets/Harshada_Patil_Resume.pdf";
 import { TypeAnimation } from "react-type-animation";
 
 const About = () => {
