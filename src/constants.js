@@ -197,6 +197,6 @@ export const projects = [
     image: PortfolioLogo,
     tags: ["HTML" , "React JS", "Tailwind CSS", "JavaScript", "Responsive Design", "Framer Motion"],
     github: "https://github.com/Harshada-Patil-05/MyPortfolio.git",
-    webapp: "https://movie-recommendation-app-jet.vercel.app/",
+    webapp: "https://www.harshadapatil.online/",
   },
 ];
