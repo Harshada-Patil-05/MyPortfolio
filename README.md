@@ -1,4 +1,4 @@
-# 🌐 Harshada Gulabrao Patil – Personal Portfolio Website
+# 🌐 Harshada Patil – Personal Portfolio Website
 
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Framework-38B2AC?logo=tailwind-css)
@@ -53,4 +53,24 @@ The goal of this project is to maintain a strong personal brand and provide recr
 - Custom Domain (DNS configured)
 
 ---
+
+## 🎯 Purpose
+
+This portfolio was built to showcase my technical skills, frontend development expertise, and project experience in a professional and structured manner.  
+
+It reflects my understanding of modern UI/UX principles, responsive design, and clean component-based architecture using React.
+
+---
+
+## ⚡ Performance & Optimization
+
+- Optimized React component structure
+- Reusable components for scalability
+- Clean and maintainable codebase
+- Responsive layout across all devices
+- Smooth animations without performance lag
+- Lightweight and fast loading
+
+---
+
 
