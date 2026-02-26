@@ -1,16 +1,56 @@
-# React + Vite
+# 🌐 Harshada Gulabrao Patil – Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Framework-38B2AC?logo=tailwind-css)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel)
+![Status](https://img.shields.io/badge/Status-Live-success)
 
-Currently, two official plugins are available:
+Welcome to my personal portfolio website built using **React.js** and **Tailwind CSS**.  
+This website showcases my projects, technical skills, experience, and contact information in a modern and responsive design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Live Website:** https://harshadapatil.online  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 About The Project
 
-## Expanding the ESLint configuration
+This portfolio is designed to represent my technical journey and projects in a clean and professional way.  
+It includes smooth animations, responsive UI, project showcases, and a working contact form.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The goal of this project is to maintain a strong personal brand and provide recruiters with an easy way to explore my work.
+
+---
+
+## ✨ Features
+
+- Fully Responsive Design (Mobile + Tablet + Desktop)
+- Smooth Animations using Framer Motion
+- Modern UI with Tailwind CSS
+- Project Showcase Section
+- Skills Section
+- Experience & Education Section
+- Contact Form integrated with EmailJS
+- Toast Notifications
+- Custom Domain Connected
+- SSL Secured (HTTPS)
+- Deployed on Vercel
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Tailwind CSS
+- Framer Motion
+
+### Integrations
+- EmailJS
+- React Toastify
+
+### Deployment
+- Vercel
+- Custom Domain (DNS configured)
+
+---
+
