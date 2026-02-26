@@ -73,4 +73,84 @@ It reflects my understanding of modern UI/UX principles, responsive design, and 
 
 ---
 
+## ⚙️ Installation & Setup
 
+To run this project locally:
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+```
+
+2. Navigate to the project folder
+
+```bash
+cd your-repository-name
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start the development server
+
+```bash
+npm run dev
+```
+
+The application will run on:
+http://localhost:5173
+
+---
+
+## 🚀 Deployment
+
+This project is deployed using **Vercel**.
+
+Deployment process:
+
+- Pushed project to GitHub
+- Connected GitHub repository to Vercel
+- Configured custom domain
+- Updated DNS records
+- SSL automatically enabled
+
+Live URL:
+https://harshadapatil.online
+
+---
+
+## 🌍 Domain & SEO
+
+- Custom domain configured successfully
+- HTTPS secured
+- SEO meta tags implemented
+- Optimized page titles and descriptions
+- Clean URL structure
+
+---
+
+## 🔮 Future Improvements
+
+- Add Blog Section
+- Add Dark/Light Mode Toggle
+- Improve SEO Optimization
+- Add Performance Monitoring
+- Add Unit Testing
+
+---
+
+## 👩‍💻 Author
+
+**Harshada Gulabrao Patil**
+
+🌐 Portfolio: https://harshadapatil.online  
+💻 GitHub: https://github.com/Harshada-Patil-05
+🔗 LinkedIn: https://www.linkedin.com/in/harshada-g-patil/
+
+---
+
+⭐ If you found this project useful, consider giving it a star on GitHub!
