@@ -143,14 +143,13 @@ https://harshadapatil.online
 
 ---
 
-## 👩‍💻 Author
+## 👤 Developed By
+**Harshada Gulabrao Patil**  
+Full-Stack Web Developer  
 
-**Harshada Gulabrao Patil**
-
-🌐 Portfolio: https://harshadapatil.online  
-💻 GitHub: https://github.com/Harshada-Patil-05
-🔗 LinkedIn: https://www.linkedin.com/in/harshada-g-patil/
-
+🌐 Portfolio: https://harshadapatil.online 
+🔗 LinkedIn: [Harshada_Patil](https://www.linkedin.com/in/harshada-g-patil/)  
+📧 Email: harshupatil0405@gmail.com
 ---
 
 ⭐ If you found this project useful, consider giving it a star on GitHub!
