@@ -1,6 +1,6 @@
 import React from "react";
 import profileImage from "../../assets/Harshu.jpeg";
-import resume from "../../assets/Harshada Resume.pdf"
+import resume from "../../assets/Harshada_Resume.pdf"
 import { TypeAnimation } from "react-type-animation";
 
 const About = () => {
@@ -53,7 +53,7 @@ const About = () => {
             href={resume}
             target="_blank"
             rel="noopener noreferrer"
-            download="Harshada Resume.pdf"
+            download="Harshada_Resume.pdf"
             className="inline-block text-white py-3 px-8 rounded-full text-lg font-bold transition duration-300 transform hover:scale-105"
             style={{
               background: "linear-gradient(90deg, #8245ec, #a855f7)",
